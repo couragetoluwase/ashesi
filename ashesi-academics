@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+</style>
+</head>
+
+<main>
+<body>
+<div class="white-back">
+  <img src="https://www.ashesi.edu.gh/images/logo-mobile_colored.png" alt="ASHESI LOGO">
+<h4><a href="https://www.ashesi.edu.gh/">Home</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/about.html">About</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/admissions/welcome.html">Admissions</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/campus-life/student-life-overview.html">Academics</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/campus-life/student-life-overview.html">Student Life</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/stories-and-events/stories.html">News</a></h4>
+<h4><a href="https://www.ashesi.edu.gh/resources.html"> Resources </a></h4>
+<h4><a href="http://www.ashesi.org/donate">Donate </a></h4>
+</div>
+<!-- Put the above "inline" to form a menu -->
+<div class="dark-back">
+  <h2><a href="https://www.ashesi.edu.gh/campus-life/student-life-overview.html">Academics</a></h2>
+  <h4><a href="https://www.ashesi.edu.gh/academics/the-ashesi-education.html">Overview </a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/programmes.html">Departments </a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/learning-goals.html">Learning Goals</a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/academic-registrar.html">Academic Registry </a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/academic-calendars.html">Calendar </a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/library.html">Library</a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/academic-affairs.html">Academic Affairs </a></h4>
+  <h4><a href="https://www.ashesi.edu.gh/academics/class-of-2024.html">Class of 2024</a></h4>
+</div>
+
+<img class="image" src="https://www.ashesi.edu.gh/images/2018_Website/Academics/Academics_Banner_Landing-min.jpg" alt="ongoing lecture with female lecturer and many freshman students">
+
+<div class="white-back">
+<h2>Teaching Skills That Last a Lifetime</h2>
+<p>At the heart of the Ashesi Education is a multidisciplinary core curriculum that develops critical thinking, creative problem solving, ethical reasoning, and effective communication skills. The combination of the core curriculum and a rigorous preparation in a major field of study prepares students to thrive and to lead in a rapidly changing world.</p>
+</div>
+
+<div class="gallery">
+  <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
+  <div class="brochure">
+  <h1>Departments & Programmes</h1>
+  <p>At Ashesi, teaching and learning are team endeavours. Regardless of their major area of study, students get broad perspectives from courses offered across multiple academic departments.</p>
+
+<h5><a href="https://www.ashesi.edu.gh/academics/programmes/arts-and-sciences.html">Humanities and Social Sciences</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/academics/programmes/business-administration.html">Business Administration</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/academics/programmes/computer-science.html">Computer Science</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/academics/programmes/engineering.html">Engineering</a></h5>
+
+<div class="gallery">
+  <img src="https://www.ashesi.edu.gh/images/academics/images/website_2019/Ashesi_Academics_Departments.jpg" alt="happy lecturer">
+   <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
+   <div class="brochure">
+     <h2>Academic Resources</h2>
+     <p>Our academic affairs team serves a broad range of needs, across faculty, staff and students; support teaching and learning excellence, service and innovation, and curriculum design. </p>
+     <h5><a href="https://www.ashesi.edu.gh/academics/academic-registrar.html">Academic Registry</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/academics/academic-registrar/registry-academic-calendar.html">Academic Calendars</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/about/at-a-glance/university-policies.html">University Policies</a></h5>
+<h5><a href="https://www.ashesi.edu.gh/academics/library.html">Todd & Ruth Warren Library</a></h5>
+
+<div class="gallery">
+  <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
+  <div class="brochure">
+    <h2>A Leader in Education Impact </h2>
+    <p>A Leader in Education Impact
+Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400, in the 2021 Global Times Higher Education (THE) University Impact Rankings. The Impact Rankings measure actions taken by higher education institutions to realise the <a href="https://sustainabledevelopment.un.org/?menu=1300">United Nations' 17 SDGs</a>.<a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">Read more...</a> </p>
+    </div>
+    <img src="https://www.ashesi.edu.gh/images/academics/dean/Banner_THE_Ashesi_Ranking.jpg" alt="University Ranking">
+</div>
+
+<div class="gallery">
+   <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
+  <div class="brochure">
+    <h2>Quality Assurance </h2>
+    <p>Our Quality Assurance Committee ensures that the university maintains strong teaching and learning standards. It also approves curriculum, leads accreditation processes, and among others, has advisory responsibility for academic facilities on campus. </p>
+    <a href="https://www.ashesi.edu.gh/images/academics/docs/Final_Quality_Assurance_Manual2016_2017_B.pdf">Read our Manual </a>
+  </div>
+  <img src="https://www.ashesi.edu.gh/images/2018_Website/Academics/Ashesi_Resources1.jpg" alt="Experimentation in lab">
+</div>
+
+<footer class="dark-back">
+  <h3 id="footer-head"> Quick Links </h3>
+
+  <h6 class="footer-topic"> University</h6>
+  <a href="">Webmail
+  <a href="">Student Information  System
+  <a href="">Academic Calendar
+  <a href="">Institutional Repository
+
+  <h6 class="footer-topic">New Here?</h6>
+  <a href="">Our Campus
+  <a href="">Alumni Stories
+  <a href="">Campus Life Blog
+  <a href="">Awards & Recognition
+
+  <h6 class="footer-topic">For Businesses</h6>
+  <a href="">Career Services Office</a>
+  <a href="">Recruit Ashesi Students</a>
+  <a href="">Job Openings</a>
+  <a href="">Support Ashesi</a>
+
+
+
+</body>
+</main>
+
+</html>
