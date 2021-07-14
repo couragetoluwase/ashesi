@@ -82,7 +82,10 @@ Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400
     <li><a href="https://gbsn.org/membership/information-for-members/">Member: Global Business School Network</li>
     <li><a href="https://www.ashesi.edu.gh/stories-and-events/stories/3484-ashesi-u7-alliance.html">Member: U7+ Alliance</a></li>
     <li><a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">Ranking: Times Higher Education</a></li>
-</ul>
+    </ul>
+  </div>
+</div>
+
 
 <div class="gallery">
    <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
@@ -114,6 +117,18 @@ Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400
   <a href="">Recruit Ashesi Students</a>
   <a href="">Job Openings</a>
   <a href="">Support Ashesi</a>
+
+  <form action="https://www.freecatphotoapp.com/submit-cat-photo">
+  <input type="text" placeholder="Your Email Address">
+  <button type="submit">Subscribe</button>
+</form>
+
+<a href="https://www.facebook.com/ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/facebook.png"></a>
+<a href="http://www.twitter.com/ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/tweeter.png"></a>
+<a href="https://www.youtube.com/ashesifoundation"><img src="https://www.ashesi.edu.gh/images/social_media/youtube.png"></a>
+<a href="https://www.linkedin.com/edu/ashesi-university-12820"><img src="https://www.ashesi.edu.gh/images/social_media/linkedin.png"></a>
+<a href="http://instagram.com/ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/Instagram.jpg"></a>
+<a href="http://medium.com/@ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/Medium.png"></a>
 
 
 
