@@ -101,22 +101,22 @@ Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400
   <h3 id="footer-head"> Quick Links </h3>
 
   <h6 class="footer-topic"> University</h6>
-  <a href="">Webmail
-  <a href="">Student Information  System
-  <a href="">Academic Calendar
-  <a href="">Institutional Repository
+  <a href="http://mail.office365.com/">Webmail</a>
+  <a href="https://ashesi.instructure.com/login/canvas">Student Information System</a>
+  <a href="https://www.ashesi.edu.gh/academics/academic-calendars.html">Academic Calendar</a>
+  <a href="https://air.ashesi.edu.gh/">Institutional Repository</a>
 
   <h6 class="footer-topic">New Here?</h6>
-  <a href="">Our Campus
-  <a href="">Alumni Stories
-  <a href="">Campus Life Blog
-  <a href="">Awards & Recognition
+  <a href="https://www.ashesi.edu.gh/about/campus-tour.html">Our Campus</a>
+  <a href="https://outcomes.ashesi.edu.gh/">Alumni Stories</a>
+  <a href="https://at.ashesi.edu.gh/">Campus Life Blog</a>
+  <a href="https://www.ashesi.edu.gh/about/at-a-glance/awards-and-recognition">Awards & Recognition</a>
 
   <h6 class="footer-topic">For Businesses</h6>
-  <a href="">Career Services Office</a>
-  <a href="">Recruit Ashesi Students</a>
-  <a href="">Job Openings</a>
-  <a href="">Support Ashesi</a>
+  <a href="https://www.ashesi.edu.gh/campus-life/living-here-2/career-services.html">Career Services Office</a>
+  <a href="http://www.collegecentral.com/ashesi/Employer.cfm">Recruit Ashesi Students</a>
+  <a href="https://www.ashesi.edu.gh/about/job-openings.html">Job Openings</a>
+  <a href="http://ashesi.org/">Support Ashesi</a>
 
   <form action="https://www.freecatphotoapp.com/submit-cat-photo">
   <input type="text" placeholder="Your Email Address">
@@ -130,6 +130,33 @@ Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400
 <a href="http://instagram.com/ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/Instagram.jpg"></a>
 <a href="http://medium.com/@ashesi"><img src="https://www.ashesi.edu.gh/images/social_media/Medium.png"></a>
 
+<!-- Next line of footer topic or subdivision -->
+
+<h3 class="footer-head"> Contact Us </h3>
+
+<h6 class="footer-topic">Street Address </h6>
+<p>1 University Avenue,
+Berekuso, E/R (<a href="https://www.google.com/maps/dir//5.759488,-0.220184/@5.708914,-0.244446,11z/data=!4m4!4m3!1m0!1m1!4e1?hl=en">See Map Here</a>)
+
+<h6 class="footer-topic">Postal Code </h6>
+<p>PMB CT3,
+Cantonments, Accra.</p>
+
+<h6 class="footer-topic">Phone & Email </h6>
+<p>(T) +233 302 610 330 (E)<a href="mailto:info@ashesi.edu.gh">info@ashesi.edu.gh</a>
+
+<h6 class="footer-topic">See Also </h6>
+<p>+<a href="http://www.ashesi.org/">Ashesi Foundation </a>
+<p>+<a href="http://www.ghanacic.org/">Climate Innovation Centre </a>
+<p>+<a href="https://educationcollab.ashesi.edu.gh/">Education Collaborative </a></p>
+
+<!-- Next line of footer topic or subdivision -->
+
+<a href="https://www.ashesi.edu.gh/"><img src="https://www.ashesi.edu.gh/images/footer-logo.jpg" alt="Ashesi University Branding"></a> 
+
+<p>&copy; Ashesi University. Est. 2002.  All rights reserved.</p>
+
+<p><a href="https://www.ashesi.edu.gh/site-policies.html"> Site Policies</a> | <a href="https://www.ashesi.edu.gh/component/osmap/?view=html&id=1"> Site Map </a></p>
 
 
 </body>
