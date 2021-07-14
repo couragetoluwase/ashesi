@@ -66,10 +66,23 @@
   <div class="brochure">
     <h2>A Leader in Education Impact </h2>
     <p>A Leader in Education Impact
-Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400, in the 2021 Global Times Higher Education (THE) University Impact Rankings. The Impact Rankings measure actions taken by higher education institutions to realise the <a href="https://sustainabledevelopment.un.org/?menu=1300">United Nations' 17 SDGs</a>.<a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">Read more...</a> </p>
+Ashesi was ranked first in Ghana, ninth in Africa, and among the world's top 400, in the <a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">2021 Global Times Higher Education (THE) University Impact Rankings</a>. The Impact Rankings measure actions taken by higher education institutions to realise the <a href="https://sustainabledevelopment.un.org/?menu=1300">United Nations' 17 SDGs</a>.<a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">Read more...</a> </p>
     </div>
     <img src="https://www.ashesi.edu.gh/images/academics/dean/Banner_THE_Ashesi_Ranking.jpg" alt="University Ranking">
 </div>
+
+<div class="gallery">
+  <img src="https://www.ashesi.edu.gh/images/academics/dean/Ashesi_Academics_Affiliation.jpg" alt="Graduate Student on Convocation Day">
+  <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
+  <div class="brochure">
+    <ul>
+     <li><a href="http://nab.gov.gh/">Accredited by Ghana National Accreditation Board</a></li>
+    <li><a href="https://www.ashesi.edu.gh/stories-and-events/stories/2607-ashesi-charter.html"> Charter: Presidency of the Republic of Ghana</a></li>
+    <li><a href="https://www.acu.ac.uk/our-members/">Member: Association of Commonwealth Universities</a></li>
+    <li><a href="https://gbsn.org/membership/information-for-members/">Member: Global Business School Network</li>
+    <li><a href="https://www.ashesi.edu.gh/stories-and-events/stories/3484-ashesi-u7-alliance.html">Member: U7+ Alliance</a></li>
+    <li><a href="https://www.ashesi.edu.gh/stories-and-events/stories/3819-ashesi-the-2021.html">Ranking: Times Higher Education</a></li>
+</ul>
 
 <div class="gallery">
    <!-- ADDING A DIV WITHIN A DIV SO THAT I CAN DESIGN THE WHOLE SECTION AND A SUBSECTION -->
